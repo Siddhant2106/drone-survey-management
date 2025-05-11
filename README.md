@@ -29,3 +29,5 @@ A comprehensive web application for planning, managing, and monitoring autonomou
    ```bash
    git clone https://github.com/your-username/drone-survey-management.git
    cd drone-survey-management
+
+https://v0-drone-survey-management-l212i7qlb.vercel.app/
